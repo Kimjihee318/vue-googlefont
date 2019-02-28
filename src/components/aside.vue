@@ -8,7 +8,7 @@
         <label>{{ items.name }}</label>
       </li>
     </ul>
-    <h4>Sorting</h4>
+    <!-- <h4>Sorting</h4>
     <span>
       <select id="sorting">
         <option v-for="(item, index) in sorting" :key="index" :value="item">{{ item }}</option>
@@ -42,7 +42,7 @@
         <br>
         <input type="range" min="0" max="5">
       </li>
-    </ul>
+    </ul> -->
   </div>
 </template>
 

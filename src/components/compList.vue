@@ -2,9 +2,6 @@
   <div id="comps">
     <p>Viewing {{ this.fontsNum }} of {{ this.allfontsNum }} font families</p>
     <comp></comp>
-    <comp></comp>
-    <comp></comp>
-    <comp></comp>
   </div>
 </template>
 

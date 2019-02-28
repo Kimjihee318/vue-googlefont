@@ -1,6 +1,6 @@
 <template>
   <div id="header">
-    <h2>JIHEE'S LAP</h2>
+    <h2>JIHEE'S LAB</h2>
     <ul>
       <li>DIRECTORY</li>
       <li>FEATURED</li>

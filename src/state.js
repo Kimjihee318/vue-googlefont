@@ -132,7 +132,204 @@ export const store = new Vuex.Store({
           'MonoSpace': false
         }
       },
-      
+      {
+        information: {  
+          name: 'robotang',
+          designer: 'christmas',
+          sorting: 'trending',
+          language: ['japanese','korean'],
+          defaultOptions: {
+            text: 'KIM JIHEE',
+            fontSize: 40,
+            fontWeight: '400',
+            show: true,
+          },
+          stringArr: [
+            {val: 'paragraph', content: 'my name is jiheekim'},
+            {val: 'alphabet', content: 'abcdefghijklmnopqrstuvw'},
+            {val: 'korean', content: 'KIM JIHEE'},
+            {val: 'number', content: '123456789'}
+          ],
+          weightArr: [
+            {val: 'light', content: '300'},
+            {val: 'regular', content: '400'},
+            {val: 'medium', content: '500'},
+            {val: 'bold', content: '600'}
+          ]
+        },
+        style: {
+          'Serif': false, 
+          'Sans Serif': true, 
+          'Display': true,
+          'HandWriting': true,
+          'MonoSpace': false
+        }
+      },
+      {
+        information: {  
+          name: 'robot',
+          designer: 'christmas',
+          sorting: 'trending',
+          language: ['japanese','korean'],
+          defaultOptions: {
+            text: 'KIM JIHEE',
+            fontSize: 40,
+            fontWeight: '400',
+            show: true,
+          },
+          stringArr: [
+            {val: 'paragraph', content: 'my name is jiheekim'},
+            {val: 'alphabet', content: 'abcdefghijklmnopqrstuvw'},
+            {val: 'korean', content: 'KIM JIHEE'},
+            {val: 'number', content: '123456789'}
+          ],
+          weightArr: [
+            {val: 'light', content: '300'},
+            {val: 'regular', content: '400'},
+            {val: 'medium', content: '500'},
+            {val: 'bold', content: '600'}
+          ]
+        },
+        style: {
+          'Serif': false, 
+          'Sans Serif': true, 
+          'Display': true,
+          'HandWriting': true,
+          'MonoSpace': false
+        }
+      },
+      {
+        information: {  
+          name: 'robit',
+          designer: 'christmas',
+          sorting: 'trending',
+          language: ['japanese','korean'],
+          defaultOptions: {
+            text: 'KIM JIHEE',
+            fontSize: 40,
+            fontWeight: '400',
+            show: true,
+          },
+          stringArr: [
+            {val: 'paragraph', content: 'my name is jiheekim'},
+            {val: 'alphabet', content: 'abcdefghijklmnopqrstuvw'},
+            {val: 'korean', content: 'KIM JIHEE'},
+            {val: 'number', content: '123456789'}
+          ],
+          weightArr: [
+            {val: 'light', content: '300'},
+            {val: 'regular', content: '400'},
+            {val: 'medium', content: '500'},
+            {val: 'bold', content: '600'}
+          ]
+        },
+        style: {
+          'Serif': false, 
+          'Sans Serif': true, 
+          'Display': true,
+          'HandWriting': true,
+          'MonoSpace': false
+        }
+      },
+      {
+        information: {  
+          name: 'robat',
+          designer: 'christmas',
+          sorting: 'trending',
+          language: ['japanese','korean'],
+          defaultOptions: {
+            text: 'KIM JIHEE',
+            fontSize: 40,
+            fontWeight: '400',
+            show: true,
+          },
+          stringArr: [
+            {val: 'paragraph', content: 'my name is jiheekim'},
+            {val: 'alphabet', content: 'abcdefghijklmnopqrstuvw'},
+            {val: 'korean', content: 'KIM JIHEE'},
+            {val: 'number', content: '123456789'}
+          ],
+          weightArr: [
+            {val: 'light', content: '300'},
+            {val: 'regular', content: '400'},
+            {val: 'medium', content: '500'},
+            {val: 'bold', content: '600'}
+          ]
+        },
+        style: {
+          'Serif': false, 
+          'Sans Serif': true, 
+          'Display': true,
+          'HandWriting': true,
+          'MonoSpace': false
+        }
+      },
+      {
+        information: {  
+          name: 'rob',
+          designer: 'christmas',
+          sorting: 'trending',
+          language: ['japanese','korean'],
+          defaultOptions: {
+            text: 'KIM JIHEE',
+            fontSize: 40,
+            fontWeight: '400',
+            show: true,
+          },
+          stringArr: [
+            {val: 'paragraph', content: 'my name is jiheekim'},
+            {val: 'alphabet', content: 'abcdefghijklmnopqrstuvw'},
+            {val: 'korean', content: 'KIM JIHEE'},
+            {val: 'number', content: '123456789'}
+          ],
+          weightArr: [
+            {val: 'light', content: '300'},
+            {val: 'regular', content: '400'},
+            {val: 'medium', content: '500'},
+            {val: 'bold', content: '600'}
+          ]
+        },
+        style: {
+          'Serif': false, 
+          'Sans Serif': true, 
+          'Display': true,
+          'HandWriting': true,
+          'MonoSpace': false
+        }
+      },
+      {
+        information: {  
+          name: 'robbbbbbbb',
+          designer: 'christmas',
+          sorting: 'trending',
+          language: ['japanese','korean'],
+          defaultOptions: {
+            text: 'KIM JIHEE',
+            fontSize: 40,
+            fontWeight: '400',
+            show: true,
+          },
+          stringArr: [
+            {val: 'paragraph', content: 'my name is jiheekim'},
+            {val: 'alphabet', content: 'abcdefghijklmnopqrstuvw'},
+            {val: 'korean', content: 'KIM JIHEE'},
+            {val: 'number', content: '123456789'}
+          ],
+          weightArr: [
+            {val: 'light', content: '300'},
+            {val: 'regular', content: '400'},
+            {val: 'medium', content: '500'},
+            {val: 'bold', content: '600'}
+          ]
+        },
+        style: {
+          'Serif': false, 
+          'Sans Serif': true, 
+          'Display': true,
+          'HandWriting': true,
+          'MonoSpace': false
+        }
+      },
     ]
   },
   getters: {
